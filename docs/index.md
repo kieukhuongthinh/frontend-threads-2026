@@ -1,10 +1,10 @@
 ---
 hero:
-  title: Frontend Threads 2025
+  title: Frontend Threads 2026
   description: A collection of frontend learnings
   actions:
     - text: Let's warm up!
-      link: /how-to-center-an-element
+      link: /to-do
     - text: GitHub
-      link: https://github.com/kieukhuongthinh/frontend-threads-2025
+      link: https://github.com/kieukhuongthinh/frontend-threads-2026
 ---
